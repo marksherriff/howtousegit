@@ -1,4 +1,4 @@
 def hello():
-    print("Hello world!")
+    print("Hello CS3240!!!")
 
 hello()
